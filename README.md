@@ -3,8 +3,8 @@
 ---
 
 📇 **Dados Pessoais**  
-🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsonjdias/)  
-✉️ **E-mail:** [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robsondiaswp@gmail.com)
+💼 [**LinkedIn**](https://www.linkedin.com/in/robsonjdias/)  
+📧 **E-mail**: [robsondiaswp@gmail.com](mailto:robsondiaswp@gmail.com)  
 
 ---
 
@@ -28,3 +28,4 @@
 ---
 
 🌱 **Sempre buscando expandir meus conhecimentos e explorar novas tecnologias!**
+
