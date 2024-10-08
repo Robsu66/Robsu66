@@ -1,14 +1,14 @@
-### 👋 Sobre mim
+### 👋 About Me
 
 ---
 
-📇 **Dados Pessoais**  
-💼 [**LinkedIn**](https://www.linkedin.com/in/robsonjdias/)  
-📧 **E-mail**: [robsondiaswp@gmail.com](mailto:robsondiaswp@gmail.com)  
+📇 **Personal Information**  
+🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsonjdias/)  
+✉️ **E-mail:** [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robsondiaswp@gmail.com)
 
 ---
 
-💻 **Atualmente estou aprendendo**:
+💻 **Currently Learning**:
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -17,7 +17,7 @@
 
 ---
 
-🚀 **Já tenho experiência com**:
+🚀 **Experienced in**:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,5 +27,4 @@
 
 ---
 
-🌱 **Sempre buscando expandir meus conhecimentos e explorar novas tecnologias!**
-
+🌱 **Always looking to expand my knowledge and explore new technologies!**
