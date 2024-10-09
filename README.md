@@ -7,7 +7,7 @@
 
 ---
 
-### 🐠️ **Currently Learning**:
+### 🐠️ **Currently Learning**
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-87CEEB?style=for-the-badge&logo=salesforce&logoColor=black&labelColor=F0F8FF)
 ![Apex](https://img.shields.io/badge/Apex-00BFFF?style=for-the-badge&logo=salesforce&logoColor=black&labelColor=E0FFFF)
@@ -16,7 +16,7 @@
 
 ---
 
-### 🐟 **Experienced in**:
+### 🐟 **Experienced in**
 
 ![Java](https://img.shields.io/badge/Java-4682B4?style=for-the-badge&logo=java&logoColor=white&labelColor=F0F8FF)
 ![HTML5](https://img.shields.io/badge/HTML5-00CED1?style=for-the-badge&logo=html5&logoColor=black&labelColor=E0FFFF)
