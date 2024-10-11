@@ -1,6 +1,6 @@
 # 🪼🐬 **Welcome to My Time Machine** 🌊🦈
 
-![Frutiger Aero]([https://tenor.com/pt-BR/view/xoxo-gossip-boys-aero-frutiger-gif-13784491880016939774.gif](https://i.pinimg.com/736x/dd/8d/3d/dd8d3dba8d9cda775bf98f22de1981b6.jpg)
+![Frutiger Aero](https://i.pinimg.com/736x/dd/8d/3d/dd8d3dba8d9cda775bf98f22de1981b6.jpg)
 
 ### 💾 **Personal Information**:
 - 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsonjdias/)  
